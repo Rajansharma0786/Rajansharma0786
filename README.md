@@ -2,7 +2,7 @@
 
 A passionate Software Engineer from India.
 
-![Profile views](https://gpvc.arturio.dev/Rajansharma0786)
+`![Profile views](https://gpvc.arturio.dev/Rajansharma0786)`
 
 ## About Me
 
