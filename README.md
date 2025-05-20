@@ -1,56 +1,32 @@
-<h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
-<h3 align="center">A passionate Software Engineer from India</h3> 
+# Hi 👋, I'm Rajan Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
+A passionate Software Engineer from India.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-bouali" alt="ali-bouali" /></a> </p>
 
-- 🔭 I’m currently working on **micro-services**
+## About Me
 
-- 💬 Ask me about **Spring, Java, Docker, ....**
+- 🔭 I’m currently working on *backend systems and mobile applications*
+- 🌱 I’m currently learning *advanced Java and microservices architecture*
+- 👯 I’m looking to collaborate on *Java-based open source projects*
+- 💬 Ask me about *Java, Spring Boot, and software development*
+- 📫 How to reach me *rajanrajpura18@gmail.com*
+- ⚡ Fun fact *I love learning new concepts and enjoy solving errors in software development*
 
-- 📫 How to reach me **rajanrajpura18@gmail.com**
+## Languages and Tools
 
-- ⚡ Fun fact **Make learning funny**
+![Languages and Tools](https://skillicons.dev/icons?i=java,spring,git,docker,react,jenkins)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajan-sharma-32a246197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
-<a href="https://instagram.com/alibou_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boualiali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boualiali" height="30" width="40" /></a>
-<a href="https://discord.gg/Xcw6JyptqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xcw6JyptqA" height="30" width="40" /></a>
-<a href="mailto:rajanrajpura18@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://martinfowler.com/microservices/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microservices-1.svg" alt="microservices" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajansharma0786&show_icons=true&theme=radical)
 
-<div align="center">
-<a href="https://github.com/Rajansharma0786">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajansharma0786&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajansharma0786&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajansharma0786&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajansharma0786&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajansharma0786&theme=2077" height="180em" />
-</div>
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajansharma0786&layout=compact&theme=radical)
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajansharma0786&" alt="Rajansharma0786" /></p>
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajansharma0786&langs_count=8&hide_progress=true&theme=radical)
+
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Rajansharma0786&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajan-sharma-32a246197)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanrajpura18@gmail.com)
