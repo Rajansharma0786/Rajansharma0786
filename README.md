@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3> 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2101QXR)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bouali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-bouali" alt="ali-bouali" /></a> </p>
